@@ -7,7 +7,7 @@
   "chapters": {
     "1": {
       "title": "Sword Princess Aiz",
-      "volume": "",
+      "volume": "1",
       "groups": {
         "Yen Press": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch1/01.webp",
@@ -70,7 +70,7 @@
     },
     "2": {
       "title": "Quest to the Unknown",
-      "volume": "",
+      "volume": "1",
       "groups": {
         "Yen Press": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch2/01.webp",
@@ -150,7 +150,7 @@
     },
     "3": {
       "title": "High-Voltage Combat",
-      "volume": "",
+      "volume": "1",
       "groups": {
         "Yen Press": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch3/01.webp",
@@ -204,7 +204,7 @@
     },
     "4": {
       "title": "First Contact With the White Rabbit",
-      "volume": "",
+      "volume": "1",
       "groups": {
         "Yen Press": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch4/01.webp",
@@ -257,7 +257,7 @@
     },
     "5": {
       "title": "Dream Catcher",
-      "volume": "",
+      "volume": "2",
       "groups": {
         "Yen Press": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch5/01.webp",
@@ -316,7 +316,7 @@
     },
     "6": {
       "title": "I Miss...",
-      "volume": "",
+      "volume": "2",
       "groups": {
         "Yen Press": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch6/01.webp",
@@ -368,7 +368,7 @@
     },
     "7": {
       "title": "Hetero Carnival",
-      "volume": "",
+      "volume": "2",
       "groups": {
         "Yen Press": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch7/01.webp",
@@ -425,7 +425,7 @@
     },
     "8": {
       "title": "Heroes",
-      "volume": "",
+      "volume": "2",
       "groups": {
         "Yen Press": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch8/01.webp",
@@ -487,7 +487,7 @@
     },
     "9": {
       "title": "Next Quest",
-      "volume": "",
+      "volume": "3",
       "groups": {
         "Yen Press": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch9/01.webp",
@@ -544,7 +544,7 @@
     },
     "10": {
       "title": "Detectives",
-      "volume": "",
+      "volume": "3",
       "groups": {
         "Yen Press": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch10/01.webp",
@@ -597,7 +597,7 @@
     },
     "11": {
       "title": "Red Rum",
-      "volume": "",
+      "volume": "3",
       "groups": {
         "Yen Press": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch11/01.webp",
@@ -648,7 +648,7 @@
     },
     "12": {
       "title": "Unknown",
-      "volume": "",
+      "volume": "3",
       "groups": {
         "Yen Press": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch12/01.webp",
@@ -706,7 +706,7 @@
     },
     "13": {
       "title": "Transformative Parasite",
-      "volume": "",
+      "volume": "4",
       "groups": {
         "Yen Press": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch13/01.webp",
@@ -763,7 +763,7 @@
     },
     "14": {
       "title": "Silent Scream",
-      "volume": "",
+      "volume": "4",
       "groups": {
         "Yen Press": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch14/01.webp",
@@ -817,7 +817,7 @@
     },
     "15": {
       "title": "Black King Udaeus",
-      "volume": "",
+      "volume": "4",
       "groups": {
         "Yen Press": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch15/01.webp",
@@ -869,7 +869,7 @@
     },
     "16": {
       "title": "A Wish for a Grand Feat",
-      "volume": "",
+      "volume": "4",
       "groups": {
         "Yen Press": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch16/01.webp",
@@ -931,7 +931,7 @@
     },
     "17": {
       "title": "Black Curse",
-      "volume": "",
+      "volume": "5",
       "groups": {
         "Yen Press": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch17/01.webp",
@@ -979,7 +979,7 @@
     },
     "18": {
       "title": "Conference",
-      "volume": "",
+      "volume": "5",
       "groups": {
         "Yen Press": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch18/01.webp",
@@ -1033,7 +1033,7 @@
     },
     "19": {
       "title": "Allies From Hermes Familia",
-      "volume": "",
+      "volume": "5",
       "groups": {
         "Yen Press": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch19/01.webp",
@@ -1088,7 +1088,7 @@
     },
     "20": {
       "title": "Filvis’s Painful Pursuit",
-      "volume": "",
+      "volume": "5",
       "groups": {
         "Yen Press": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch20/01.webp",
@@ -1150,7 +1150,7 @@
     },
     "21": {
       "title": "Labyrinth Wanderer",
-      "volume": "",
+      "volume": "6",
       "groups": {
         "Yen Press": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch21/01.webp",
@@ -1206,7 +1206,7 @@
     },
     "22": {
       "title": "Selective Division",
-      "volume": "",
+      "volume": "6",
       "groups": {
         "Yen Press": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch22/01.webp",
@@ -1254,7 +1254,7 @@
     },
     "23": {
       "title": "Arrival at the Red Zone",
-      "volume": "",
+      "volume": "6",
       "groups": {
         "Yen Press": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch23/01.webp",
@@ -1301,7 +1301,7 @@
     },
     "24": {
       "title": "The Fray",
-      "volume": "",
+      "volume": "6",
       "groups": {
         "Yen Press": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch24/01.webp",
@@ -1352,7 +1352,7 @@
     },
     "25": {
       "title": "Get Violent",
-      "volume": "",
+      "volume": "7",
       "groups": {
         "Yen Press": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch25/01.webp",
@@ -1409,7 +1409,7 @@
     },
     "26": {
       "title": "Abnormal Case",
-      "volume": "",
+      "volume": "7",
       "groups": {
         "Yen Press": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch26/01.webp",
@@ -1460,7 +1460,7 @@
     },
     "27": {
       "title": "Blossom Blast",
-      "volume": "",
+      "volume": "7",
       "groups": {
         "Yen Press": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch27/01.webp",
@@ -1511,7 +1511,7 @@
     },
     "28": {
       "title": "The Decisive Battle",
-      "volume": "",
+      "volume": "7",
       "groups": {
         "Yen Press": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch28/01.webp",
@@ -1567,7 +1567,7 @@
     },
     "29": {
       "title": "Homecoming",
-      "volume": "",
+      "volume": "8",
       "groups": {
         "Yen Press": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch29/01.webp",
@@ -1626,7 +1626,7 @@
     },
     "30": {
       "title": "Rival",
-      "volume": "",
+      "volume": "8",
       "groups": {
         "Yen Press": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch30/01.webp",
@@ -1681,7 +1681,7 @@
     },
     "31": {
       "title": "Elf Ring",
-      "volume": "",
+      "volume": "8",
       "groups": {
         "Yen Press": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch31/01.webp",
@@ -1736,7 +1736,7 @@
     },
     "32": {
       "title": "Preparations",
-      "volume": "",
+      "volume": "8",
       "groups": {
         "Yen Press": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch32/01.webp",
@@ -1802,7 +1802,7 @@
     },
     "33": {
       "title": "Expedition’s Departure",
-      "volume": "",
+      "volume": "9",
       "groups": {
         "Yen Press": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch33/01.webp",
@@ -1857,7 +1857,7 @@
     },
     "34": {
       "title": "The Adventurer Bell Cranell",
-      "volume": "",
+      "volume": "9",
       "groups": {
         "Yen Press": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch34/01.webp",
@@ -1909,7 +1909,7 @@
     },
     "35": {
       "title": "The Hero Argonaut",
-      "volume": "",
+      "volume": "9",
       "groups": {
         "Yen Press": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch35/01.webp",
@@ -1961,7 +1961,7 @@
     },
     "36": {
       "title": "Full Speed Into the Depths",
-      "volume": "",
+      "volume": "9",
       "groups": {
         "Yen Press": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch36/01.webp",
@@ -2021,7 +2021,7 @@
     },
     "37": {
       "title": "Never Fall Down",
-      "volume": "",
+      "volume": "10",
       "groups": {
         "Yen Press": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch37/01.webp",
@@ -2069,7 +2069,7 @@
     },
     "38": {
       "title": "Encounter",
-      "volume": "",
+      "volume": "10",
       "groups": {
         "Yen Press": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch38/01.webp",
@@ -2125,7 +2125,7 @@
     },
     "39": {
       "title": "Demi-Spirit",
-      "volume": "",
+      "volume": "10",
       "groups": {
         "Yen Press": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch39/01.webp",
@@ -2171,7 +2171,7 @@
     },
     "40": {
       "title": "Sing the Gleaming Light",
-      "volume": "",
+      "volume": "10",
       "groups": {
         "Yen Press": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch40/01.webp",
@@ -2232,7 +2232,7 @@
     },
     "41": {
       "title": "Quintessential Rest Time",
-      "volume": "",
+      "volume": "11",
       "groups": {
         "Yen Press": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch41/01.webp",
@@ -2277,7 +2277,7 @@
     },
     "42": {
       "title": "Denatus",
-      "volume": "",
+      "volume": "11",
       "groups": {
         "Yen Press": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch42/01.webp",
@@ -2320,7 +2320,7 @@
     },
     "43": {
       "title": "Healthy Day",
-      "volume": "",
+      "volume": "11",
       "groups": {
         "Yen Press": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch43/01.webp",
@@ -2364,7 +2364,7 @@
     },
     "44": {
       "title": "Visitors",
-      "volume": "",
+      "volume": "11",
       "groups": {
         "Yen Press": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch44/01.webp",
@@ -2410,7 +2410,7 @@
     },
     "45": {
       "title": "Bath Time Soak",
-      "volume": "",
+      "volume": "11",
       "groups": {
         "Yen Press": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch45/01.webp",
@@ -2448,7 +2448,7 @@
     },
     "46": {
       "title": "The Two Lost Children",
-      "volume": "",
+      "volume": "12",
       "groups": {
         "Yen Press": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch46/01.webp",
@@ -2498,7 +2498,7 @@
     },
     "47": {
       "title": "Cooperation",
-      "volume": "",
+      "volume": "12",
       "groups": {
         "Yen Press": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch47/01.webp",
@@ -2542,7 +2542,7 @@
     },
     "48": {
       "title": "Signs",
-      "volume": "",
+      "volume": "12",
       "groups": {
         "Yen Press": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch48/01.webp",
@@ -2584,7 +2584,7 @@
     },
     "49": {
       "title": "Travel Trouble",
-      "volume": "",
+      "volume": "12",
       "groups": {
         "Yen Press": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch49/01.webp",
@@ -2629,7 +2629,7 @@
     },
     "50": {
       "title": "Inquiry",
-      "volume": "",
+      "volume": "12",
       "groups": {
         "Yen Press": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch50/01.webp",
@@ -2684,7 +2684,7 @@
     },
     "51": {
       "title": "Combat Country Telskyura",
-      "volume": "",
+      "volume": "13",
       "groups": {
         "Yen Press": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch51/01.webp",
@@ -2730,7 +2730,7 @@
     },
     "52": {
       "title": "Hostage Threat",
-      "volume": "",
+      "volume": "13",
       "groups": {
         "Yen Press": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch52/01.webp",
@@ -2776,7 +2776,7 @@
     },
     "53": {
       "title": "A Past Under the Moon",
-      "volume": "",
+      "volume": "13",
       "groups": {
         "Yen Press": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch53/01.webp",
@@ -2822,7 +2822,7 @@
     },
     "54": {
       "title": "War Party’s Starting Bell",
-      "volume": "",
+      "volume": "13",
       "groups": {
         "Yen Press": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch54/01.webp",
@@ -2867,7 +2867,7 @@
     },
     "55": {
       "title": "Burst Out",
-      "volume": "",
+      "volume": "13",
       "groups": {
         "Yen Press": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch55/01.webp",
@@ -2915,7 +2915,7 @@
     },
     "56": {
       "title": "Judging the True Culprit",
-      "volume": "",
+      "volume": "14",
       "groups": {
         "Yen Press": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch56/01.webp",
@@ -2958,7 +2958,7 @@
     },
     "57": {
       "title": "Reinforcements",
-      "volume": "",
+      "volume": "14",
       "groups": {
         "Yen Press": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch57/01.webp",
@@ -2997,7 +2997,7 @@
     },
     "58": {
       "title": "Blue Sky",
-      "volume": "",
+      "volume": "14",
       "groups": {
         "Yen Press": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch58/01.webp",
@@ -3047,7 +3047,7 @@
     },
     "59": {
       "title": "Cleaning Up",
-      "volume": "",
+      "volume": "14",
       "groups": {
         "Yen Press": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch59/01.webp",
@@ -3087,7 +3087,7 @@
     },
     "60": {
       "title": "Daedalus Street",
-      "volume": "",
+      "volume": "14",
       "groups": {
         "Yen Press": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch60/01.webp",
@@ -3123,7 +3123,7 @@
     },
     "61": {
       "title": "Enemy Territory",
-      "volume": "",
+      "volume": "15",
       "groups": {
         "Yen Press": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch61/01.webp",
@@ -3164,7 +3164,7 @@
     },
     "62": {
       "title": "Lethal Nightmare",
-      "volume": "",
+      "volume": "15",
       "groups": {
         "Yen Press": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch62/01.webp",
@@ -3206,7 +3206,7 @@
     },
     "63": {
       "title": "The Fringe",
-      "volume": "",
+      "volume": "15",
       "groups": {
         "Yen Press": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch63/01.webp",
@@ -3254,7 +3254,7 @@
     },
     "64": {
       "title": "Thanatos the Evil God",
-      "volume": "",
+      "volume": "15",
       "groups": {
         "Yen Press": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch64/01.webp",
@@ -3299,7 +3299,7 @@
     },
     "65": {
       "title": "Jack-of-all-trades, Raul Nord",
-      "volume": "",
+      "volume": "15",
       "groups": {
         "Yen Press": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch65/01.webp",
@@ -3354,7 +3354,7 @@
     },
     "66": {
       "title": "Fight Back",
-      "volume": "",
+      "volume": "16",
       "groups": {
         "Yen Press": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch66/01.webp",
@@ -3403,7 +3403,7 @@
     },
     "67": {
       "title": "Gugaranna",
-      "volume": "",
+      "volume": "16",
       "groups": {
         "Yen Press": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch67/01.webp",
@@ -3446,7 +3446,7 @@
     },
     "68": {
       "title": "Edge of the Cliff",
-      "volume": "",
+      "volume": "16",
       "groups": {
         "Yen Press": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch68/01.webp",
@@ -3494,7 +3494,7 @@
     },
     "69": {
       "title": "The Lost",
-      "volume": "",
+      "volume": "16",
       "groups": {
         "Yen Press": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch69/01.webp",
@@ -3542,7 +3542,7 @@
     },
     "70": {
       "title": "Memorial 1",
-      "volume": "",
+      "volume": "16",
       "groups": {
         "Yen Press": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch70/01.webp",
@@ -3591,7 +3591,7 @@
     },
     "71": {
       "title": "A Date with a Werewolf",
-      "volume": "",
+      "volume": "17",
       "groups": {
         "Yen Press": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch71/01.webp",
@@ -3637,7 +3637,7 @@
     },
     "72": {
       "title": "Memorial 2",
-      "volume": "",
+      "volume": "17",
       "groups": {
         "Yen Press": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch72/01.webp",
@@ -3690,7 +3690,7 @@
     },
     "73": {
       "title": "Rain of Tears",
-      "volume": "",
+      "volume": "17",
       "groups": {
         "Yen Press": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch73/01.webp",
@@ -3742,7 +3742,7 @@
     },
     "74": {
       "title": "Memorial 3",
-      "volume": "",
+      "volume": "17",
       "groups": {
         "Yen Press": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch74/01.webp",
@@ -3796,7 +3796,7 @@
     },
     "75": {
       "title": "Hunter",
-      "volume": "",
+      "volume": "18",
       "groups": {
         "Yen Press": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch75/01.webp",
@@ -3851,7 +3851,7 @@
     },
     "76": {
       "title": "Vanargand",
-      "volume": "",
+      "volume": "18",
       "groups": {
         "Yen Press": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch76/01.webp",
@@ -3903,7 +3903,7 @@
     },
     "77": {
       "title": "Forget-Me-Not",
-      "volume": "",
+      "volume": "18",
       "groups": {
         "Yen Press": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch77/01.webp",
@@ -3958,7 +3958,7 @@
     },
     "78": {
       "title": "Break",
-      "volume": "",
+      "volume": "18",
       "groups": {
         "Yen Press": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch78/01.webp",
@@ -4014,7 +4014,7 @@
     },
     "79": {
       "title": "Alarm",
-      "volume": "",
+      "volume": "19",
       "groups": {
         "Yen Press": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch79/01.webp",
@@ -4074,7 +4074,7 @@
     },
     "80": {
       "title": "Fool",
-      "volume": "",
+      "volume": "19",
       "groups": {
         "Yen Press": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch80/01.webp",
@@ -4128,7 +4128,7 @@
     },
     "81": {
       "title": "Monster",
-      "volume": "",
+      "volume": "19",
       "groups": {
         "Yen Press": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch81/01.webp",
@@ -4183,7 +4183,7 @@
     },
     "82": {
       "title": "Interrogating the Divine",
-      "volume": "",
+      "volume": "19",
       "groups": {
         "Yen Press": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch82/01.webp",
@@ -4239,7 +4239,7 @@
     },
     "83": {
       "title": "Bright",
-      "volume": "",
+      "volume": "20",
       "groups": {
         "Yen Press": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch83/01.webp",
@@ -4304,7 +4304,7 @@
     },
     "84": {
       "title": "Two Fronts",
-      "volume": "",
+      "volume": "20",
       "groups": {
         "Yen Press": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch84/01.webp",
@@ -4360,7 +4360,7 @@
     },
     "85": {
       "title": "Command",
-      "volume": "",
+      "volume": "20",
       "groups": {
         "Yen Press": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch85/01.webp",
@@ -4418,7 +4418,7 @@
     },
     "86": {
       "title": "Gale Wind",
-      "volume": "",
+      "volume": "20",
       "groups": {
         "Yen Press": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch86/01.webp",
@@ -4469,7 +4469,7 @@
     },
     "87": {
       "title": "Pincer Attack",
-      "volume": "",
+      "volume": "21",
       "groups": {
         "Yen Press": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch87/01.webp",
@@ -4527,7 +4527,7 @@
     },
     "88": {
       "title": "Charge",
-      "volume": "",
+      "volume": "21",
       "groups": {
         "Yen Press": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch88/01.webp",
@@ -4583,7 +4583,7 @@
     },
     "89": {
       "title": "Encounter",
-      "volume": "",
+      "volume": "21",
       "groups": {
         "Yen Press": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch89/01.webp",
@@ -4634,7 +4634,7 @@
     },
     "90": {
       "title": "Extend",
-      "volume": "",
+      "volume": "21",
       "groups": {
         "Yen Press": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch90/01.webp",
@@ -4691,7 +4691,7 @@
     },
     "91": {
       "title": "Behind the Scenes",
-      "volume": "",
+      "volume": "22",
       "groups": {
         "Yen Press": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch91/01.webp",
@@ -4755,7 +4755,7 @@
     },
     "92": {
       "title": "Promise",
-      "volume": "",
+      "volume": "22",
       "groups": {
         "Yen Press": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch92/01.webp",
@@ -4813,7 +4813,7 @@
     },
     "93": {
       "title": "Divine Will",
-      "volume": "",
+      "volume": "22",
       "groups": {
         "Yen Press": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch93/01.webp",
@@ -4870,7 +4870,7 @@
     },
     "94": {
       "title": "Rematch",
-      "volume": "",
+      "volume": "22",
       "groups": {
         "Yen Press": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch94/01.webp",
@@ -4929,7 +4929,7 @@
     },
     "95": {
       "title": "Argonaut",
-      "volume": "",
+      "volume": "23",
       "groups": {
         "Yen Press": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch95/01.webp",
@@ -4993,7 +4993,7 @@
     },
     "96": {
       "title": "Reconciliation",
-      "volume": "",
+      "volume": "23",
       "groups": {
         "Yen Press": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch96/01.webp",
@@ -5050,7 +5050,7 @@
     },
     "97": {
       "title": "Familia Meeting",
-      "volume": "",
+      "volume": "23",
       "groups": {
         "Yen Press": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch97/01.webp",
@@ -5110,7 +5110,7 @@
     },
     "98": {
       "title": "Run Again",
-      "volume": "",
+      "volume": "23",
       "groups": {
         "Yen Press": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch98/01.webp",
@@ -5173,7 +5173,7 @@
     },
     "99": {
       "title": "Smile Always, As Ever",
-      "volume": "",
+      "volume": "24",
       "groups": {
         "Yen Press": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch99/01.webp",
@@ -5238,7 +5238,7 @@
     },
     "100": {
       "title": "Overturn",
-      "volume": "",
+      "volume": "24",
       "groups": {
         "Yen Press": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch100/01.webp",
@@ -5297,7 +5297,7 @@
     },
     "101": {
       "title": "Knossos War",
-      "volume": "",
+      "volume": "24",
       "groups": {
         "Yen Press": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch101/01.webp",
@@ -5350,7 +5350,7 @@
     },
     "102": {
       "title": "Attack on Knossos",
-      "volume": "",
+      "volume": "24",
       "groups": {
         "Yen Press": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch102/01.webp",
@@ -5408,7 +5408,7 @@
     },
     "103": {
       "title": "Happy Birthday",
-      "volume": "",
+      "volume": "25",
       "groups": {
         "Yen Press": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch103/01.webp",
@@ -5464,7 +5464,7 @@
     },
     "104": {
       "title": "Painful Days",
-      "volume": "",
+      "volume": "25",
       "groups": {
         "Yen Press": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch104/01.webp",
@@ -5517,7 +5517,7 @@
     },
     "105": {
       "title": "Amid Teasanare",
-      "volume": "",
+      "volume": "25",
       "groups": {
         "Yen Press": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch105/01.webp",
@@ -5572,7 +5572,7 @@
     },
     "106": {
       "title": "Countdown",
-      "volume": "",
+      "volume": "25",
       "groups": {
         "Yen Press": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch106/01.webp",
@@ -5633,7 +5633,7 @@
     },
     "107": {
       "title": "Requiem For a Dream",
-      "volume": "",
+      "volume": "26",
       "groups": {
         "Yen Press": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch107/01.webp",
@@ -5697,7 +5697,7 @@
     },
     "108": {
       "title": "Greed",
-      "volume": "",
+      "volume": "26",
       "groups": {
         "Yen Press": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch108/01.webp",
@@ -5753,7 +5753,7 @@
     },
     "109": {
       "title": "Escape",
-      "volume": "",
+      "volume": "26",
       "groups": {
         "Yen Press": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch109/01.webp",
@@ -5806,7 +5806,7 @@
     },
     "110": {
       "title": "Whodunit",
-      "volume": "",
+      "volume": "26",
       "groups": {
         "Yen Press": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch110/01.webp",
@@ -5876,7 +5876,7 @@
     },
     "111": {
       "title": "By Your Side",
-      "volume": "",
+      "volume": "27",
       "groups": {
         "Orario Translations": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch111/01.webp",
@@ -5925,7 +5925,7 @@
     },
     "112": {
       "title": "Examination",
-      "volume": "",
+      "volume": "27",
       "groups": {
         "Orario Translations": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch112/01.webp",
@@ -5979,7 +5979,7 @@
     },
     "113": {
       "title": "Premonition",
-      "volume": "",
+      "volume": "27",
       "groups": {
         "Orario Translations": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch113/01.webp",
@@ -6033,7 +6033,7 @@
     },
     "114": {
       "title": "Whispering",
-      "volume": "",
+      "volume": "27",
       "groups": {
         "Orario Translations": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch114/01.webp",
@@ -6088,7 +6088,7 @@
     },
     "115": {
       "title": "Time Limit",
-      "volume": "",
+      "volume": "28",
       "groups": {
         "Orario Translations": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch115/01.webp",
@@ -6147,7 +6147,7 @@
     },
     "116": {
       "title": "War Cry",
-      "volume": "",
+      "volume": "28",
       "groups": {
         "Orario Translations": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch116/01.webp",
@@ -6204,7 +6204,7 @@
     },
     "117": {
       "title": "Die Hard",
-      "volume": "",
+      "volume": "28",
       "groups": {
         "Orario Translations": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch117/01.webp",
@@ -6256,7 +6256,7 @@
     },
     "118": {
       "title": "Darkest Place",
-      "volume": "",
+      "volume": "28",
       "groups": {
         "Orario Translations": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch118/01.webp",
@@ -6311,7 +6311,7 @@
     },
     "119": {
       "title": "Tempest",
-      "volume": "",
+      "volume": "29",
       "groups": {
         "Orario Translations": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch119/01.webp",
@@ -6371,7 +6371,7 @@
     },
     "120": {
       "title": "Avenger",
-      "volume": "",
+      "volume": "29",
       "groups": {
         "Orario Translations": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch120/01.webp",
@@ -6431,7 +6431,7 @@
     },
     "121": {
       "title": "Face-Off",
-      "volume": "",
+      "volume": "29",
       "groups": {
         "Orario Translations": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch121/01.webp",
@@ -6497,7 +6497,7 @@
     },
     "122": {
       "title": "Whodunit (Truth)",
-      "volume": "",
+      "volume": "29",
       "groups": {
         "Orario Translations": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch122/01.webp",
@@ -6558,7 +6558,7 @@
     },
     "123": {
       "title": "Deduction",
-      "volume": "",
+      "volume": "30",
       "groups": {
         "Orario Translations": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch123/01.webp",
@@ -6620,7 +6620,7 @@
     },
     "124": {
       "title": "Motive",
-      "volume": "",
+      "volume": "30",
       "groups": {
         "Orario Translations": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch124/01.webp",
@@ -6682,7 +6682,7 @@
     },
     "125": {
       "title": "Separation",
-      "volume": "",
+      "volume": "30",
       "groups": {
         "Orario Translations": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch125/01.webp",
@@ -6728,7 +6728,7 @@
     },
     "126": {
       "title": "Apocalypse",
-      "volume": "",
+      "volume": "30",
       "groups": {
         "Orario Translations": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch126/01.webp",
@@ -6787,7 +6787,7 @@
     },
     "127": {
       "title": "Critical Point",
-      "volume": "",
+      "volume": "31",
       "groups": {
         "Orario Translations": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch127/01.webp",
@@ -6845,7 +6845,7 @@
     },
     "128": {
       "title": "Memoria Freese",
-      "volume": "",
+      "volume": "31",
       "groups": {
         "Orario Translations": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch128/01.webp",
@@ -6913,7 +6913,7 @@
     },
     "129": {
       "title": "Freya Familia",
-      "volume": "",
+      "volume": "31",
       "groups": {
         "Orario Translations": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch129/01.webp",
@@ -6978,7 +6978,7 @@
     },
     "130": {
       "title": "Hestia Familia",
-      "volume": "",
+      "volume": "31",
       "groups": {
         "Orario Translations": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch130/01.webp",
@@ -7036,7 +7036,7 @@
     },
     "131": {
       "title": "Bell Attack",
-      "volume": "",
+      "volume": "32",
       "groups": {
         "Orario Translations": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch131/01.webp",
@@ -7099,7 +7099,7 @@
     },
     "132": {
       "title": "Fateful",
-      "volume": "",
+      "volume": "32",
       "groups": {
         "Orario Translations": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch132/01.webp",
@@ -7166,7 +7166,7 @@
     },
     "133": {
       "title": "Profile",
-      "volume": "",
+      "volume": "32",
       "groups": {
         "Orario Translations": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch133/01.webp",
@@ -7231,7 +7231,7 @@
     },
     "134": {
       "title": "Darkest Before Dawn",
-      "volume": "",
+      "volume": "32",
       "groups": {
         "Orario Translations": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch134/01.webp",
@@ -7295,7 +7295,7 @@
     },
     "135": {
       "title": "Double",
-      "volume": "",
+      "volume": "33",
       "groups": {
         "Orario Translations": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch135/01.webp",
@@ -7356,7 +7356,7 @@
     },
     "136": {
       "title": "Limit Break",
-      "volume": "",
+      "volume": "33",
       "groups": {
         "Orario Translations": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch136/01.webp",
@@ -7420,7 +7420,7 @@
     },
     "137": {
       "title": "Tempest",
-      "volume": "",
+      "volume": "33",
       "groups": {
         "Orario Translations": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch137/01.webp",
@@ -7478,7 +7478,7 @@
     },
     "138": {
       "title": "End Of Days",
-      "volume": "",
+      "volume": "33",
       "groups": {
         "Orario Translations": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch138/01.webp",
@@ -7543,7 +7543,7 @@
     },
     "139": {
       "title": "Farewell",
-      "volume": "",
+      "volume": "34",
       "groups": {
         "Orario Translations": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch139/01.avif",
@@ -7599,7 +7599,7 @@
     },
     "140": {
       "title": "I Miss You",
-      "volume": "",
+      "volume": "34",
       "groups": {
         "zZ_Eternal_Zz": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch140/01.avif",
@@ -7657,7 +7657,7 @@
     },
     "141": {
       "title": "Who Am I, Really?",
-      "volume": "",
+      "volume": "34",
       "groups": {
         "zZ_Eternal_Zz": [
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch141/1.png",
