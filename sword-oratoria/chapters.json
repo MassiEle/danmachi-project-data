@@ -7718,7 +7718,7 @@
         ]
       }
     },
-    "142": {
+    "142.1": {
       "title": "Little Aiz (Part 1)",
       "volume": "34",
       "groups": {
@@ -7757,6 +7757,41 @@
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch142.1/31.png",
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch142.1/32.png",
           "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch142.1/33.png"
+        ]
+      }
+    },
+    "142.2": {
+      "title": "Little Aiz (Part 2)",
+      "volume": "34",
+      "groups": {
+        "White Moon Translations": [
+          "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch142.2/00.png",
+          "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch142.2/01.png",
+          "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch142.2/02.png",
+          "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch142.2/03.png",
+          "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch142.2/04.png",
+          "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch142.2/05.png",
+          "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch142.2/06.png",
+          "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch142.2/07.png",
+          "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch142.2/08.png",
+          "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch142.2/09.png",
+          "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch142.2/10.png",
+          "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch142.2/11.png",
+          "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch142.2/12.png",
+          "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch142.2/13.png",
+          "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch142.2/14.png",
+          "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch142.2/15.png",
+          "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch142.2/16.png",
+          "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch142.2/17.png",
+          "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch142.2/18.png",
+          "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch142.2/19.png",
+          "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch142.2/20.png",
+          "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch142.2/21.png",
+          "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch142.2/22.png",
+          "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch142.2/23.png",
+          "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch142.2/24.png",
+          "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch142.2/25.png",
+          "https://raw.githubusercontent.com/MassiEle/danmachi-project-data/refs/heads/main/sword-oratoria/ch142.2/26.png"
         ]
       }
     }
